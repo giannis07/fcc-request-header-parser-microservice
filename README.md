@@ -1,6 +1,6 @@
 # 🧾 Request Header Parser Microservice
 
-This is a project built for the [freeCodeCamp Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).
+My solution for the [Request Header Parser Microservice project on freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).
 
 ## 📌 Overview
 
